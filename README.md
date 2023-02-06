@@ -7,6 +7,11 @@
 - I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git
 - Currently developing an [Online Tabletop Platform](https://github.com/Paolo-Federle/Online-Tabletop-Platform)
 
-## Contact me
+## PROJECTS
+
+- 🎲 [Dice Roller](https://github.com/Paolo-Federle/dice_roll)
+- 🧠 [Tabletop platform](https://github.com/Paolo-Federle/Online_Tabletop_Platform)
+
+**Contact me**
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hubertlemczak/](https://www.linkedin.com/in/paolo-federle/))
