@@ -9,8 +9,10 @@
 
 ## PROJECTS
 
-- 🎲 [Dice Roller](https://github.com/Paolo-Federle/dice_roll)
+- 🎲 [Dice Roller](https://dice-roll-beta.vercel.app/)
 - 🧠 [Tabletop platform](https://github.com/Paolo-Federle/Online_Tabletop_Platform)
+
+<i>*Repositories are pinned down below</i>
 
 **Contact me**
 
