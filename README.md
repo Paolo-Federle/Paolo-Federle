@@ -13,6 +13,7 @@
 - 🎲 [Dice Roller](https://paolo-federle.github.io/dice_roll/)
 - 🧠 [Tabletop platform](https://github.com/Paolo-Federle/Online_Tabletop_Platform)
 - 💼 [Portfolio](https://paolo-federle.github.io/portfolio/)
+- 👾 [RPG game](https://paolo-federle.github.io/rpg-game/)
 
 <i>*Repositories are pinned down below</i>
 
