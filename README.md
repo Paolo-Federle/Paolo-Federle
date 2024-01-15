@@ -12,6 +12,7 @@
 
 - 🎲 [Dice Roller](https://paolo-federle.github.io/dice_roll/)
 - 🧠 [Tabletop platform](https://github.com/Paolo-Federle/Online_Tabletop_Platform)
+- 💼 [Portfolio](https://paolo-federle.github.io/portfolio/)
 
 <i>*Repositories are pinned down below</i>
 
