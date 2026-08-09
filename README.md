@@ -1,11 +1,6 @@
 ## Hello, Ciao – I'm Paolo👋
 ### Software Developer Based in Vicenza, Italy
 
-**About me**
-- I used to be a Graphic Designer
-- I use: ``.jsx``, ``.js``, ``.spec.js``, ``.sql``, ``.css``, ``.html``, ``.py``
-- I also use: React.js, Node.js, Express.js, Prisma, postgreSQL, Rest API, Jasmine, Git
-
 ## PROJECTS
 
 - 🎲 [Dice Roller](https://paolo-federle.github.io/dice_roll/)
